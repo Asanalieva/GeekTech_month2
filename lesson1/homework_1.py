@@ -16,4 +16,3 @@ class Employee:
 
     def get_total_salary(self):
         return self.salary
-
