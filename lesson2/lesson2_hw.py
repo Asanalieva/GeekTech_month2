@@ -58,3 +58,8 @@ print(person2.get_age())
 teacher1 = Teacher('Airas', 2001)
 teacher2 = Teacher('Daniiar', 2000)
 teacher3 = Teacher('Abai', 1998)
+
+print(teacher1.name)
+print(teacher1.is_adult())
+print(teacher1.get_age())
+
