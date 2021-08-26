@@ -19,3 +19,4 @@ class Calculator:
         for num in args:
             z += num
         print(a, "*", b, '*', z, "=", a * b)
+
