@@ -1,7 +1,7 @@
 import calculator
 import random
 rand_list = []
-for i in range(1,20):
+for i in range(1,21):
     n = random.randint(1,100)
     rand_list.append(n)
 aa = random.choice(rand_list)
